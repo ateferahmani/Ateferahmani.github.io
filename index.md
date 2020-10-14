@@ -1,2 +1,5 @@
-Atefe Rahmani Resume
-intro
+<div dir="rtl">
+  معرفی
+  نام ونام خانوادگی:عاطفه رحمانی
+  سال تولد: 1377/11/16
+  </div>
